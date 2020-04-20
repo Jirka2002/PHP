@@ -109,6 +109,7 @@ $b = 7;
 var_dump ($a < $b);
 
 echo "<br>";
+
 $a = 20;
 echo"<br>";
 $b = 7;
